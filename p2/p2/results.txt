@@ -1,0 +1,8 @@
+sol_1:    1 (    crash)     3 (    crash)     5 (    crash) 
+sol_2:    1 (stuck/inf)     3 (stuck/inf)     5 (stuck/inf) 
+sol_3:    1 (stuck/inf)     3 (stuck/inf)     5 (stuck/inf) 
+sol_4:    1 (stuck/inf)     3 (stuck/inf)     5 (stuck/inf) 
+sol_5:    1 (incorrect)     3 (incorrect)     5 (incorrect) 
+sol_6:    1 (stuck/inf)     3 (stuck/inf)     5 (stuck/inf) 
+sol_7:    1 (stuck/inf)     3 (stuck/inf)     5 (stuck/inf) 
+sol_8:    1 (stuck/inf)     3 (stuck/inf)     5 (stuck/inf) 
